@@ -259,7 +259,7 @@ export default function Garden() {
       width: "100vw", height: "100vh", overflow: "hidden", position: "relative",
       background: "linear-gradient(180deg,#fce4ec 0%,#fdf6f9 35%,#e8f5e9 75%,#c8e6c9 100%)",
       fontFamily: "'Dancing Script',Georgia,serif",
-      colorScheme: "light",
+      
     }}>
       <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Lora:ital@0;1&display=swap');
